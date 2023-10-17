@@ -5,4 +5,4 @@
 - AWS Lambda
 - AWS DynamoDB
 
-![undefined](https://github.com/alanhakhyeonsong/aws-lambda-ex/assets/60968342/86ffbbd4-f035-4124-b7eb-56c9797d8ba5)
+![undefined](https://github.com/alanhakhyeonsong/aws-lambda-ex/assets/60968342/03ee4e2e-a512-463e-a08d-4b12818d6f37)
